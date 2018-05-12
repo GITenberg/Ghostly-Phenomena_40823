@@ -1,0 +1,32 @@
+_repo: Ghostly-Phenomena_40823
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40823-h/images/cover.jpg
+creator:
+  author:
+    agent_name: O'Donnell, Elliott
+    alias: O'Donnell, Elliot
+    birthdate: 1872
+    deathdate: 1965
+    gutenberg_agent_id: '5469'
+    url: http://www.gutenberg.org/2009/agents/5469
+    wikipedia: http://en.wikipedia.org/wiki/Elliott_O%27Donnell
+description: Throughout his life, Irish-born writer Elliot O'Donnell reportedly experienced
+  several encounters with ghostly beings, including one run-in with a spirit in Dublin
+  that almost proved fatal. Inspired by these experiences, O'Donnell devoted his life
+  to hunting and documenting specters. The collection Ghostly Phenomena brings together
+  an impressive batch of ghost-related folktales, sightings, and anecdotes.
+gutenberg_issued: '2012-09-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40823'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BF'
+- !lcsh 'Ghosts'
+title: Ghostly Phenomena
+url: http://www.gutenberg.org/ebooks/40823
